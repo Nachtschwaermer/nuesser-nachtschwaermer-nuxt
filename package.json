@@ -1,0 +1,33 @@
+{
+  "name": "nuesser-nachtschwaermer-nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt-ts",
+    "build": "nuxt-ts build",
+    "start": "nuxt-ts start",
+    "generate": "nuxt-ts generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.9.0",
+    "@nuxt/typescript-runtime": "^2.0.0",
+    "core-js": "^3.6.5",
+    "jarallax": "^1.12.5",
+    "nuxt": "^2.14.6"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.14.6",
+    "@nuxt/typescript-build": "^2.0.3",
+    "@nuxtjs/stylelint-module": "^4.0.0",
+    "@nuxtjs/tailwindcss": "^3.1.0",
+    "@tailwindcss/typography": "^0.3.1",
+    "autoprefixer": "^9",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "postcss": "^7",
+    "prettier": "^2.1.2",
+    "stylelint": "^13.8.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "tailwindcss-debug-screens": "^2.0.0"
+  }
+}
