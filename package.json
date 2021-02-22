@@ -13,7 +13,7 @@
     "@nuxt/typescript-runtime": "^2.0.1",
     "core-js": "^3.9.0",
     "jarallax": "^1.12.5",
-    "nuxt": "^2.15.0"
+    "nuxt": "^2.15.1"
   },
   "devDependencies": {
     "@nuxt/types": "^2.15.0",
