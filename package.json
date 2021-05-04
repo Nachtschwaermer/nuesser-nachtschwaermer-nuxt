@@ -3,14 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt-ts",
-    "build": "nuxt-ts build",
-    "start": "nuxt-ts start",
-    "generate": "nuxt-ts generate"
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "@nuxt/content": "^1.14.0",
-    "@nuxt/typescript-runtime": "^2.0.1",
     "core-js": "^3.11.2",
     "jarallax": "^1.12.5",
     "nuxt": "^2.15.3"
@@ -28,6 +27,7 @@
     "postcss": "^8",
     "prettier": "^2.1.2",
     "stylelint": "^13.13.1",
+    "tailwindcss": "^2.1.2",
     "tailwindcss-debug-screens": "^2.0.0"
   }
 }
