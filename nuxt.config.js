@@ -14,7 +14,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
     bodyAttrs: {
-      class: process.env.NODE_ENV ? 'debug-screens' : ''
+      // class: process.env.NODE_ENV ? 'debug-screens' : ''
     }
   },
 
