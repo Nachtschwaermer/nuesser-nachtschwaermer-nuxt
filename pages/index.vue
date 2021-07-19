@@ -1,4 +1,3 @@
-<script src='../../cdu-neuss-processwire/site/templates/resources/cdu-neuss-tailwind/tailwind.config.js'></script>
 <template>
   <div>
     <section class='container mx-auto my-20 px-6 flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-24 items-start'>
