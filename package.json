@@ -28,7 +28,7 @@
     "postcss": "^8",
     "prettier": "^2.4.0",
     "stylelint": "^13.13.1",
-    "tailwindcss": "^2.2.15",
+    "tailwindcss": "^2.2.16",
     "tailwindcss-debug-screens": "^2.1.0",
     "webpack": "^5.54.0"
   }
