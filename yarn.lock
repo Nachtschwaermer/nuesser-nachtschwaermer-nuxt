@@ -5995,14 +5995,14 @@ isobject@^3.0.0, isobject@^3.0.1:
   resolved "https://registry.yarnpkg.com/isobject/-/isobject-3.0.1.tgz#4e431e92b11a9731636aa1f9c8d1ccbcfdab78df"
   integrity sha1-TkMekrEalzFjaqH5yNHMvP2reN8=
 
-jarallax@^1.12.7:
-  version "1.12.7"
-  resolved "https://registry.yarnpkg.com/jarallax/-/jarallax-1.12.7.tgz#3f2f28c87721f1360fc7c5d64155b127cd8ad8b7"
-  integrity sha512-Ux98pvoU1jgJuSn+1FAIou8iBH2RGfNIMcLV6GHVTfZhfFrmYOp7NfJSXdEjXaUarLTqsQos7ai7V2y8UKnOGw==
+jarallax@^1.12.8:
+  version "1.12.8"
+  resolved "https://registry.yarnpkg.com/jarallax/-/jarallax-1.12.8.tgz#d66c3ab060c85666671afd52dde09d0614d51bbe"
+  integrity sha512-O0y21vyDbx8DcwTANGinzu0d8PK6VGF0qrIXne4y3yqLO5glfWSGoUtfmZ5lgfwvZw6yGNNBFdN/ww4p1tkHmw==
   dependencies:
     global "^4.4.0"
     lite-ready "^1.0.4"
-    video-worker "^1.1.14"
+    video-worker "^1.1.17"
 
 jest-worker@^26.5.0:
   version "26.6.2"
@@ -10711,7 +10711,7 @@ vfile@^4.0.0:
     unist-util-stringify-position "^2.0.0"
     vfile-message "^2.0.0"
 
-video-worker@^1.1.14:
+video-worker@^1.1.17:
   version "1.1.17"
   resolved "https://registry.yarnpkg.com/video-worker/-/video-worker-1.1.17.tgz#78b8104fe059daf014c7454772173ddd9e5ef606"
   integrity sha512-36w0bumK2BYuFgYEXM1vD99qYEz5fkZEaPX3bSSJC6y0eoDGAApAq+ZN4gVd5ikZzHvQo+1YbepwzpLCGSZYuQ==
