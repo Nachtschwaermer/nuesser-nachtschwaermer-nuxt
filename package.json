@@ -30,6 +30,6 @@
     "stylelint": "^13.13.1",
     "tailwindcss": "^2.2.19",
     "tailwindcss-debug-screens": "^2.2.0",
-    "webpack": "^5.64.0"
+    "webpack": "^5.64.1"
   }
 }
