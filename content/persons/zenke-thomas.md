@@ -1,5 +1,5 @@
 ---
-title: Thomas Zenke
+title: Thomas Zenke †
 rank: ''
 
 ---
