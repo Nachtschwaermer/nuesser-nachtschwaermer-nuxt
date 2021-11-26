@@ -26,7 +26,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "postcss": "^8",
-    "prettier": "^2.4.0",
+    "prettier": "^2.5.0",
     "stylelint": "^13.13.1",
     "tailwindcss": "^2.2.19",
     "tailwindcss-debug-screens": "^2.2.0",
