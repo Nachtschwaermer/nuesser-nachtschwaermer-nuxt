@@ -27,7 +27,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "postcss": "^8",
     "prettier": "^2.5.0",
-    "stylelint": "^13.13.1",
+    "stylelint": "^14.1.0",
     "tailwindcss": "^2.2.19",
     "tailwindcss-debug-screens": "^2.2.0",
     "webpack": "^5.64.4"
