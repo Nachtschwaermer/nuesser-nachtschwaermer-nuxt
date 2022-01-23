@@ -1,0 +1,6 @@
+@import "~/assets/css/fonts.css";
+@import "~/assets/css/parallax.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
