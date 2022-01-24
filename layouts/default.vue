@@ -3,7 +3,7 @@
     <header class='w-full h-screen md:h-screen-2/3 bg-green-600 text-white jarallax'>
       <img src='images/zug.jpg' class='absolute top-0 left-o w-full h-full object-cover object-center opacity-20 jarallax-img'>
       <div class='absolute top-0 left-0 w-full h-full flex flex-col justify-center items-center space-y-6 text-center p-12'>
-        <img src='images/logo.png' width='146' height='197' alt='Logo'>
+        <img src='images/logo.svg' width='220' height='220' alt='Logo'>
         <h1 class='text-4xl sm:text-5xl md:text-6xl uppercase font-title font-bold'>{{ heading }}</h1>
         <p class='text-xl sm:text-2xl md:text-3xl font-slab'>Mitglied im Corps der Neusser Schützenlust</p>
         <a :href='$config.facebookUrl' target='_blank'>
