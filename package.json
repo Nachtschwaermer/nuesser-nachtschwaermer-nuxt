@@ -19,7 +19,7 @@
     "@nuxt/types": "^2.15.8",
     "@nuxt/typescript-build": "^2.0.4",
     "@nuxtjs/stylelint-module": "^4.1.0",
-    "@tailwindcss/typography": "^0.5.0",
+    "@tailwindcss/typography": "^0.5.1",
     "autoprefixer": "^10",
     "consola": "^2.15.3",
     "eslint": "^8.6.0",
