@@ -22,7 +22,7 @@
     "@tailwindcss/typography": "^0.5.2",
     "autoprefixer": "^10",
     "consola": "^2.15.3",
-    "eslint": "^8.12.0",
+    "eslint": "^8.13.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
     "postcss": "^8",
