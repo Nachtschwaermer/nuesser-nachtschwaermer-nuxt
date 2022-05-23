@@ -14,6 +14,9 @@ export default {
       { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
       { rel: 'icon', type: 'image/png', href: '/favicon.png' }
     ],
+    script: [
+      { src: 'https://skillful-code.nuesser-nachtschwaermer.de/script.js', 'data-site': 'QVVBFSLJ', defer: true }
+    ],
     bodyAttrs: {
       // class: process.env.NODE_ENV ? 'debug-screens' : ''
     }
