@@ -3,13 +3,13 @@ title: Über die Nachtschwärmer
 statistics:
   yearsActive:
     label: Jahre aktiv
-    value: 34
+    value: 35
   activeMembers:
-    label: Marschierer 2019
-    value: 20
+    label: Marschierer 2022
+    value: 19
   number:
-    label: Zugnummer 2019
-    value: 14
+    label: Zugnummer 2022
+    value: 44
 quote:
   text: Soviel Disziplin wie nötig – soviel Freud‘ wie möglich
   cite: Jochem Dammer
